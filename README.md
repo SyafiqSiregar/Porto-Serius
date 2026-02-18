@@ -26,3 +26,4 @@ No build step is required. Simply open `index.html` in a modern web browser, or 
 ## Credits
 - Icons: [Phosphor Icons](https://phosphoricons.com) / [Heroicons](https://heroicons.com)
 - Fonts: Space Grotesk, Inter
+
